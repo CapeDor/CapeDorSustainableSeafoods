@@ -49,7 +49,7 @@ class Navbar_Page extends Component {
                         <Navbar expand="lg" fixed="top" className={ this.props.navClass + " navbar-custom sticky sticky-dark"}>
                             <Container>
                                 <NavbarBrand className="logo" href="/">
-                                    <img src="assets/images/header.png" alt="Logo"></img>
+                                    <img src="assets/images/header.png" height="45px" widht="auto" alt="Logo"></img>
                                 </NavbarBrand>
 
                                 <NavbarToggler className="p-0" onClick={this.toggle} ><i className="mdi mdi-menu"></i></NavbarToggler>
