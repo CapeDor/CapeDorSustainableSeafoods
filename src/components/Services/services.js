@@ -15,7 +15,7 @@ class Services extends Component {
             { title : "Biosecure Seawater Wells", icon : "pe-7s-drop", description : "All of our water comes from biosecure seawater wells and is naturally filtered underground through 600 feet of gravel before being pumped into the facility." },
             { title : "Support Local", icon : "pe-7s-map-marker", description : "We provide jobs to rural seacoast Nova Scotians while supporting local and small businesses." },
             { title : "Naturally Raised", icon : "pe-7s-leaf", description : "Our fish are antibiotic, parasiticide, hormone, and GMO free. Our feed is organic and made with local fish meal with no avian or land animal byproducts" },
-            { title : "Certified Organic", icon : "pe-7s-portfolio", description : "Certified organic by Global Trust - the gold standard in third-party certification. We now offer a 100% organic product." },
+            { title : "Certified Organic", icon : "pe-7s-portfolio", description : "Certified organic by Pro-Cert - a leading provider third-party certification. We now offer a 100% organic product." },
         ]
     }
     render() {
